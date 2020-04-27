@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/delancey/react-weather/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/delancey/react-weather/static/js/main.74b1d45d.chunk.js",
+    "main.js.map": "/delancey/react-weather/static/js/main.74b1d45d.chunk.js.map",
+    "runtime-main.js": "/delancey/react-weather/static/js/runtime-main.d8b2fb4c.js",
+    "runtime-main.js.map": "/delancey/react-weather/static/js/runtime-main.d8b2fb4c.js.map",
+    "static/css/2.74189dbb.chunk.css": "/delancey/react-weather/static/css/2.74189dbb.chunk.css",
+    "static/js/2.057dadb1.chunk.js": "/delancey/react-weather/static/js/2.057dadb1.chunk.js",
+    "static/js/2.057dadb1.chunk.js.map": "/delancey/react-weather/static/js/2.057dadb1.chunk.js.map",
+    "index.html": "/delancey/react-weather/index.html",
+    "precache-manifest.51b7875e20be8425298907ea3528d664.js": "/delancey/react-weather/precache-manifest.51b7875e20be8425298907ea3528d664.js",
+    "service-worker.js": "/delancey/react-weather/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/delancey/react-weather/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/delancey/react-weather/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.057dadb1.chunk.js.LICENSE.txt": "/delancey/react-weather/static/js/2.057dadb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b2fb4c.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.057dadb1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.74b1d45d.chunk.js"
+  ]
+}
